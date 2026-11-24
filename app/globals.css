@@ -79,3 +79,16 @@ main{animation:page-enter .4s var(--ease-premium) both}@keyframes page-enter{fro
  .cart-row>strong{margin-left:0}
  .lightbox-controls{gap:12px}
 }
+
+.preview-notice {
+  position: fixed;
+  inset: auto auto 1rem 1rem;
+  z-index: 60;
+  max-width: calc(100% - 5rem);
+  padding: .4rem .7rem;
+  border-radius: .25rem;
+  background: #242019;
+  color: #fff;
+  font-size: .75rem;
+  line-height: 1.4;
+}
