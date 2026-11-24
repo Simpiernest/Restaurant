@@ -1,0 +1,349 @@
+{
+  "hajia-sauda-restaurant": {
+    "name": "Hajia Sauda Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Hajia%20Sauda%20Restaurant%20Adenta%20Ghana&query_place_id=ChIJ699sMbKd3w8R0aIEfVESK-4",
+    "rating": "4.2",
+    "reviews": "254",
+    "phone": "+233 24 112 3639",
+    "area": "Adenta",
+    "shortName": "Hajia Sauda",
+    "address": "Pantang Abokobi Road, Adenta Municipality",
+    "menuKind": "review",
+    "dishes": [
+      "Fufu with palm nut soup",
+      "Tuo zaafi with meat",
+      "Pineapple juice"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Hajia%20Sauda%20Restaurant%20Adenta%20Ghana&query_place_id=ChIJ699sMbKd3w8R0aIEfVESK-4"
+  },
+  "eat-more-fufu-run-by-big-fish": {
+    "name": "Eat More Fufu (Run by BIG FISH)",
+    "map": "https://www.google.com/maps/search/?api=1&query=Eat%20More%20Fufu%20(Run%20by%20BIG%20FISH)%20Adenta%20Ghana&query_place_id=ChIJ2w7FvUed3w8RF082z9Ffj0c",
+    "rating": "4.8",
+    "reviews": "33",
+    "phone": "+233 53 812 6827",
+    "area": "Adenta",
+    "shortName": "Eat More Fufu",
+    "address": "3 Krabi Link, Adenta Municipality",
+    "menuKind": "menu",
+    "dishes": [
+      "Fufu",
+      "Kokonte"
+    ],
+    "menuSource": "https://food.bolt.eu/en/137-accra/p/182932-eat-more-fufu-run-by-big-fish/"
+  },
+  "de-solace-restaurant-and-bar": {
+    "name": "DE _SOLACE RESTAURANT AND BAR",
+    "map": "https://www.google.com/maps/search/?api=1&query=DE%20_SOLACE%20RESTAURANT%20AND%20BAR%20Adenta%20Ghana&query_place_id=ChIJP0GyIgCd3w8RNZHycqoX4uM",
+    "rating": "4.9",
+    "reviews": "16",
+    "phone": "+233 55 982 2722",
+    "area": "Adenta",
+    "shortName": "De Solace",
+    "address": "PR7V+WJG, Adenta Municipality",
+    "menuKind": "review",
+    "dishes": [
+      "Assorted fried rice"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=DE%20_SOLACE%20RESTAURANT%20AND%20BAR%20Adenta%20Ghana&query_place_id=ChIJP0GyIgCd3w8RNZHycqoX4uM"
+  },
+  "party-house-bar-grill": {
+    "name": "Party House Bar & Grill",
+    "map": "https://www.google.com/maps/search/?api=1&query=Party%20House%20Bar%20%26%20Grill%20Adenta%20Ghana&query_place_id=ChIJ_WmnD2qd3w8R_LQTO7y3PI0",
+    "rating": "4.3",
+    "reviews": "14",
+    "phone": "+233 59 393 9919",
+    "area": "Adenta",
+    "shortName": "Party House",
+    "address": "Adenta Municipality",
+    "menuKind": "review",
+    "dishes": [
+      "Grilled tilapia"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Party%20House%20Bar%20%26%20Grill%20Adenta%20Ghana&query_place_id=ChIJ_WmnD2qd3w8R_LQTO7y3PI0"
+  },
+  "elysium-restaurant-bar": {
+    "name": "Elysium Restaurant & Bar",
+    "map": "https://www.google.com/maps/search/?api=1&query=Elysium%20Restaurant%20%26%20Bar%20Adenta%20Ghana&query_place_id=ChIJm0gi2kmd3w8RQ27UsQrYXmU",
+    "rating": "5.0",
+    "reviews": "7",
+    "phone": "+233 53 622 1110",
+    "area": "Adenta",
+    "shortName": "Elysium",
+    "address": "Nii Adjei Kwabena Road, Adenta Municipality",
+    "menuKind": "review",
+    "dishes": [
+      "Jollof rice with grilled chicken",
+      "Pancakes"
+    ],
+    "menuSource": "https://restaurantguru.com/Elysium-Restaurant-and-Bar-Adenta-Municipality"
+  },
+  "chow-vibes": {
+    "name": "Chow Vibes",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chow%20Vibes%20Adenta%20Ghana&query_place_id=ChIJg5XPLQCd3w8RFgM1TyLqS10",
+    "rating": "5.0",
+    "reviews": "5",
+    "phone": "+233 24 863 0758",
+    "area": "Adenta",
+    "shortName": "Chow Vibes",
+    "address": "PV32+W2J, Adenta Municipality",
+    "menuKind": "review",
+    "dishes": [
+      "Fufu with light soup"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Chow%20Vibes%20Adenta%20Ghana&query_place_id=ChIJg5XPLQCd3w8RFgM1TyLqS10"
+  },
+  "spendless-mamas-bowl": {
+    "name": "Spendless Mama’s Bowl",
+    "map": "https://www.google.com/maps/search/?api=1&query=Spendless%20Mama%E2%80%99s%20Bowl%20Adenta%20Ghana&query_place_id=ChIJ2__qBgCD3w8RgwYWtiHjjlA",
+    "rating": "5.0",
+    "reviews": "2",
+    "phone": "+233 24 353 8214",
+    "area": "Adenta",
+    "shortName": "Mama’s Bowl",
+    "address": "PV28+VJR, Adenta Municipality",
+    "menuKind": "review",
+    "dishes": [
+      "Tuo zaafi",
+      "Jollof rice",
+      "Banku with okro"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Spendless%20Mama%E2%80%99s%20Bowl%20Adenta%20Ghana&query_place_id=ChIJ2__qBgCD3w8RgwYWtiHjjlA"
+  },
+  "home-made-local-restaurant": {
+    "name": "Home Made Local Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Home%20Made%20Local%20Restaurant%20Madina%20Ghana&query_place_id=ChIJv2CVJb-c3w8Rwx0jxsJIF1o",
+    "rating": "4.2",
+    "reviews": "956",
+    "phone": "+233 50 230 7131",
+    "area": "Madina",
+    "shortName": "Home Made Local",
+    "address": "MR7P+X36, New Road, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Fufu with light soup"
+    ],
+    "menuSource": "https://restaurantguru.com/Home-Made-Local-Restaurant-Madina"
+  },
+  "chop-better": {
+    "name": "Chop Better",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chop%20Better%20Madina%20Ghana&query_place_id=ChIJr6Ftifyd3w8RP0mUo7VDBYI",
+    "rating": "4.3",
+    "reviews": "187",
+    "phone": "+233 24 673 6313",
+    "area": "Madina",
+    "shortName": "Chop Better",
+    "address": "MRHV+PXF, Bluedove Road, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Soup"
+    ],
+    "menuSource": "https://restaurantguru.com/Chop-Better-Madina"
+  },
+  "fresh-taste-restaurant-traditional": {
+    "name": "Fresh Taste Restaurant (Traditional)",
+    "map": "https://www.google.com/maps/search/?api=1&query=Fresh%20Taste%20Restaurant%20(Traditional)%20Madina%20Ghana&query_place_id=ChIJi1dYyeyd3w8RPaUcTEn5Rmw",
+    "rating": "4.2",
+    "reviews": "174",
+    "phone": "+233 24 615 5935",
+    "area": "Madina",
+    "shortName": "Fresh Taste",
+    "address": "Near Institute of Local Governance, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Tilapia",
+      "Soup"
+    ],
+    "menuSource": "https://restaurantguru.com/FRESH-TASTE-RESTAURANT-Traditional-Accra"
+  },
+  "perissos-lounge": {
+    "name": "Perissos Lounge",
+    "map": "https://www.google.com/maps/search/?api=1&query=Perissos%20Lounge%20Madina%20Ghana&query_place_id=ChIJe2G52zqd3w8Rdf5EGp_Hpmk",
+    "rating": "4.8",
+    "reviews": "154",
+    "phone": "+233 50 681 8333",
+    "area": "Madina",
+    "shortName": "Perissos Lounge",
+    "address": "Maye Hot, Madina",
+    "menuKind": "menu",
+    "dishes": [
+      "Spolalos fried rice",
+      "Fried rice with chili-dunked pork",
+      "Yam chips with chili-dunked pork",
+      "Kenkey with chili-dunked pork",
+      "Spag Spolalos",
+      "Ayalolo mocktail"
+    ],
+    "menuSource": "https://pizarea.com/restaurant/branches/perissos"
+  },
+  "suya-republik": {
+    "name": "Suya Republik",
+    "map": "https://www.google.com/maps/search/?api=1&query=Suya%20Republik%20Madina%20Ghana&query_place_id=ChIJRVhrXgCd3w8RvhWUvwY4umg",
+    "rating": "4.9",
+    "reviews": "69",
+    "phone": "+233 59 887 0938",
+    "area": "Madina",
+    "shortName": "Suya Republik",
+    "address": "Brigadier General R Agbamasu Avenue, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Suya",
+      "Kebabs",
+      "Tilapia",
+      "Grilled lamb",
+      "Lamb cutlets"
+    ],
+    "menuSource": "https://restaurantguru.com/Suya-Republik-Madina/menu"
+  },
+  "milady-restaurant": {
+    "name": "MiLady Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=MiLady%20Restaurant%20Madina%20Ghana&query_place_id=ChIJ4z64bD-d3w8RgbREbKeVABg",
+    "rating": "4.7",
+    "reviews": "56",
+    "phone": "+233 24 404 0454",
+    "area": "Madina",
+    "shortName": "MiLady Restaurant",
+    "address": "Badu Nkansah Road, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Jollof rice"
+    ],
+    "menuSource": "https://wanderlog.com/place/details/10696334/milady-restaurant"
+  },
+  "tempo-de-dio-restaurant": {
+    "name": "Tempo De Dio Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Tempo%20De%20Dio%20Restaurant%20Madina%20Ghana&query_place_id=ChIJdRdcswOd3w8RmNg3vpBW774",
+    "rating": "4.6",
+    "reviews": "18",
+    "phone": "+233 57 500 1112",
+    "area": "Madina",
+    "shortName": "Tempo De Dio",
+    "address": "ECOWAS Road, Ritz Agbogba Road, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Banku with okro stew",
+      "Assorted fried rice",
+      "Vegetable sauce",
+      "Jollof with chicken"
+    ],
+    "menuSource": "https://restaurantguru.com/amp/Tempo-De-Dio-Restaurant-Madina"
+  },
+  "the-flavour-pot": {
+    "name": "The Flavour Pot",
+    "map": "https://www.google.com/maps/search/?api=1&query=The%20Flavour%20Pot%20Madina%20Ghana&query_place_id=ChIJPapLszSd3w8RLIazOgrxZSM",
+    "rating": "4.7",
+    "reviews": "15",
+    "phone": "+233 24 945 7149",
+    "area": "Madina",
+    "shortName": "The Flavour Pot",
+    "address": "The Fire Side, Madina",
+    "menuKind": "review",
+    "dishes": [
+      "Grilled catfish",
+      "Tilapia",
+      "Banku"
+    ],
+    "menuSource": "https://restaurantguru.com/THE-FLAVOUR-POT-Madina"
+  },
+  "vayram-food-palace": {
+    "name": "Vayram Food Palace",
+    "map": "https://www.google.com/maps/search/?api=1&query=Vayram%20Food%20Palace%20Oyarifa%20Ghana&query_place_id=ChIJlYUboJ533w8RUdVl2nTzLJg",
+    "rating": "4.4",
+    "reviews": "76",
+    "phone": "+233 24 489 5319",
+    "area": "Oyarifa",
+    "shortName": "Vayram Food Palace",
+    "address": "Owusu Ansah Road, Oyarifa Filling, GM-145-9623",
+    "menuKind": "review",
+    "dishes": [
+      "Drinks"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Vayram%20Food%20Palace%20Oyarifa%20Ghana&query_place_id=ChIJlYUboJ533w8RUdVl2nTzLJg"
+  },
+  "nest-and-bites": {
+    "name": "Nest and Bites",
+    "map": "https://www.google.com/maps/search/?api=1&query=Nest%20and%20Bites%20Oyarifa%20Ghana&query_place_id=ChIJwceTujN33w8RA_O5KxO_-f8",
+    "rating": "5.0",
+    "reviews": "10",
+    "phone": "+233 50 388 5979",
+    "area": "Oyarifa",
+    "shortName": "Nest and Bites",
+    "address": "Behind Oyarifa Container, Serenity Estate Road, Oyarifa",
+    "menuKind": "review",
+    "dishes": [
+      "Noodles",
+      "Jollof rice"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Nest%20and%20Bites%20Oyarifa%20Ghana&query_place_id=ChIJwceTujN33w8RA_O5KxO_-f8"
+  },
+  "ace-restaurant-lounge-and-cocktail": {
+    "name": "ACE Restaurant / Lounge and Cocktail",
+    "map": "https://www.google.com/maps/search/?api=1&query=ACE%20Restaurant%20%2F%20Lounge%20and%20Cocktail%20Kasoa%20Ghana&query_place_id=ChIJ6XmExQi73w8RrkgTptKROJ4",
+    "rating": "4.4",
+    "reviews": "53",
+    "phone": "+233 55 903 0839",
+    "area": "Kasoa",
+    "shortName": "ACE Restaurant & Lounge",
+    "address": "Kasoa Justice Road, off Obom Road, Kasoa",
+    "menuKind": "review",
+    "dishes": [
+      "Grilled chicken",
+      "Fried rice",
+      "Chicken wings",
+      "Prawns",
+      "Chips"
+    ],
+    "menuSource": "https://es.restaurantguru.com/ACE-RESTAURANT-LOUNGE-AND-COCKTAIL-Kasoa/menu"
+  },
+  "backyard-food-joint-and-restaurant": {
+    "name": "Backyard Food Joint and Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Backyard%20Food%20Joint%20and%20Restaurant%20Kasoa%20Ghana&query_place_id=ChIJkWuD6XO73w8RMS2d3gyd3zQ",
+    "rating": "5.0",
+    "reviews": "1",
+    "phone": "+233 50 610 1456",
+    "area": "Kasoa",
+    "shortName": "Backyard Food Joint",
+    "address": "Kasoa",
+    "menuKind": "review",
+    "dishes": [
+      "Grilled dishes"
+    ],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Backyard%20Food%20Joint%20and%20Restaurant%20Kasoa%20Ghana&query_place_id=ChIJkWuD6XO73w8RMS2d3gyd3zQ"
+  },
+  "follow-me-to-nakis-kitchen": {
+    "name": "Follow Me To Nakis Kitchen",
+    "map": "https://www.google.com/maps/search/?api=1&query=Follow%20Me%20To%20Nakis%20Kitchen%20Kasoa%20Ghana&query_place_id=ChIJrz1ZGqS73w8RDq7BtR6Es-s",
+    "rating": "5.0",
+    "reviews": "1",
+    "phone": "+233 55 111 1434",
+    "area": "Kasoa",
+    "shortName": "Naki’s Kitchen",
+    "address": "Obom Road, Ghana Flag Junction, Kasoa",
+    "menuKind": "menu",
+    "dishes": [
+      "Fufu",
+      "Banku",
+      "Konkonte",
+      "Rice balls",
+      "Ampesi",
+      "Groundnut soup",
+      "Palm nut soup",
+      "Goat light soup",
+      "Tilapia light soup"
+    ],
+    "menuSource": "https://chopradar.com/browse/?q=banku&type=local"
+  },
+  "joyce-kitchen": {
+    "name": "Joyce Kitchen",
+    "map": "https://www.google.com/maps/search/?api=1&query=Joyce%20Kitchen%20Kasoa%20Ghana&query_place_id=ChIJ63_WSqO73w8Ra7Ro1Omph9Q",
+    "rating": "5.0",
+    "reviews": "1",
+    "phone": "+233 24 225 5568",
+    "area": "Kasoa",
+    "shortName": "Joyce Kitchen",
+    "address": "Kasoa-Kaemebre Junction, Kasoa",
+    "menuKind": "",
+    "dishes": [],
+    "menuSource": "https://www.google.com/maps/search/?api=1&query=Joyce%20Kitchen%20Kasoa%20Ghana&query_place_id=ChIJ63_WSqO73w8Ra7Ro1Omph9Q"
+  }
+}

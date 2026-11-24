@@ -92,3 +92,55 @@ main{animation:page-enter .4s var(--ease-premium) both}@keyframes page-enter{fro
   font-size: .75rem;
   line-height: 1.4;
 }
+
+.restaurant-preview .preview-logo {
+  min-width: 0;
+  max-width: 17rem;
+  text-align: center;
+}
+.restaurant-preview .preview-logo .logo-full,
+.restaurant-preview .preview-logo .logo-short {
+  font-size: clamp(1rem, 2.1vw, 1.6rem);
+  line-height: 1.08;
+  letter-spacing: -.025em;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+.restaurant-preview .preview-logo .logo-short { display: none; }
+.restaurant-preview .preview-hero-name {
+  font-size: clamp(2.2rem, 7vw, 5.25rem);
+  max-width: 19ch;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+.restaurant-preview .preview-menu-note { margin: 0 0 1.25rem; }
+.restaurant-preview .preview-menu .text-link { margin-top: 1.25rem; display: inline-flex; }
+.restaurant-preview .preview-dish {
+  background: var(--cream, #faf7ee);
+  color: #202a21;
+  border: 1px solid #dcd4c1;
+  padding: 1.25rem;
+  border-radius: .65rem;
+  min-width: 0;
+}
+.restaurant-preview .preview-dish svg { color: #86641e; margin-bottom: .65rem; }
+.restaurant-preview .preview-dish h3 { margin: 0; overflow-wrap: anywhere; }
+.restaurant-preview .preview-rating { padding-block: clamp(2rem, 6vw, 5rem); }
+.restaurant-preview .preview-contact a,
+.restaurant-preview .preview-rating a,
+.restaurant-preview .hero-rating a { text-underline-offset: .2em; }
+.restaurant-preview .preview-contact a:not(.button),
+.restaurant-preview .preview-rating a { text-decoration: underline; }
+.restaurant-preview .contact-details p { overflow-wrap: anywhere; }
+@media (max-width: 1020px) {
+  .restaurant-preview header .preview-logo .logo-full { display: none; }
+  .restaurant-preview header .preview-logo .logo-short { display: block; }
+  .restaurant-preview header .preview-logo { flex: 0 1 12rem; }
+}
+@media (max-width: 650px) {
+  .restaurant-preview .nav-wrap { width: 92%; gap: .65rem; }
+  .restaurant-preview header .preview-logo { flex: 0 1 10rem; }
+  .restaurant-preview .preview-logo .logo-short { font-size: clamp(.95rem, 4.4vw, 1.3rem); }
+  .restaurant-preview .nav-wrap nav { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .restaurant-preview .preview-hero-name { max-width: 16ch; }
+}
