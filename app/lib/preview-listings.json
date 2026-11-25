@@ -166,5 +166,14 @@
     "area": "Kasoa",
     "address": "Kasoa-Kaemebre Junction, Kasoa",
     "map": "https://www.google.com/maps/search/?api=1&query=Joyce%20Kitchen%20Kasoa%20Ghana&query_place_id=ChIJ63_WSqO73w8Ra7Ro1Omph9Q"
+  },
+  "sweet-sensations": {
+    "name": "Sweet Sensations",
+    "shortName": "Sweet Sensations",
+    "phone": "+233 24 470 2284",
+    "area": "Adenta",
+    "address": "PR5F+2W2, Adenta Municipality",
+    "map": "https://www.google.com/maps/place/Sweet+Sensations/@5.7075362,-0.1752277,17z/data=!3m1!4b1!4m6!3m5!1s0xfdf9df3f55c46dd:0x407c30d913b2755!8m2!3d5.7075362!4d-0.1752277!16s%2Fg%2F11s4b5x_b5",
+    "boltFood": "https://food.bolt.eu/en/137-accra/p/952805-sweet-sensation-restaurant/?utm_source=google_integration"
   }
 }

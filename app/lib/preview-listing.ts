@@ -5,4 +5,5 @@ export type PreviewListing = {
   area: string;
   address: string;
   map: string;
+  boltFood?: string;
 };
