@@ -175,5 +175,13 @@
     "address": "PR5F+2W2, Adenta Municipality",
     "map": "https://www.google.com/maps/place/Sweet+Sensations/@5.7075362,-0.1752277,17z/data=!3m1!4b1!4m6!3m5!1s0xfdf9df3f55c46dd:0x407c30d913b2755!8m2!3d5.7075362!4d-0.1752277!16s%2Fg%2F11s4b5x_b5",
     "boltFood": "https://food.bolt.eu/en/137-accra/p/952805-sweet-sensation-restaurant/?utm_source=google_integration"
+  },
+  "de-klinic": {
+    "name": "De Klinic Restaurant & Pub",
+    "shortName": "De Klinic",
+    "phone": "+233 54 390 2954",
+    "area": "Adenta",
+    "address": "43 Lame Dwaahe Street, opposite Melcom, Adenta",
+    "map": "https://www.google.com/maps/search/?api=1&query=De%20Klinic%20Restaurant%20Adenta"
   }
 }
