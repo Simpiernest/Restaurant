@@ -468,5 +468,698 @@
         "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793801349373-sztrf7blf6s.jpeg"
       ]
     ]
+  },
+  "chez-afrique": {
+    "name": "Chez Afrique",
+    "shortName": "Chez Afrique",
+    "area": "East Legon",
+    "address": "4 Bissau Avenue, Accra",
+    "phone": "+233 20 211 2887",
+    "intro": "Ghanaian grills and local dishes",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=Chez%20Afrique%20East%20Legon%20Accra&query_place_id=ChIJDf_jwmeb3w8RitFYd8nq2Ww",
+    "hero": "/assets/ghana-chicken.webp",
+    "menu": [
+      [
+        "chez-afrique-1",
+        "Banku with Grilled Tilapia",
+        "",
+        110,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "chez-afrique-2",
+        "Jollof Rice with Grilled Chicken",
+        "",
+        75,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "chez-afrique-3",
+        "Kelewele",
+        "",
+        30,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-bruschetta.webp"
+      ]
+    ]
+  },
+  "liv-resto-lounge": {
+    "name": "Liv Resto Lounge",
+    "shortName": "Liv Resto Lounge",
+    "area": "East Legon",
+    "address": "La-Bawaleshi Road, Accra",
+    "phone": "+233 50 759 3705",
+    "intro": "Ghanaian rice dishes, waakye and grilled tilapia",
+    "source": "https://www.mkamalls.com/food/abb36082-7c70-412c-ac70-f990a25c2aa1",
+    "sourceName": "MKA Malls Food Court",
+    "map": "https://www.google.com/maps/search/?api=1&query=Liv%20Resto%20Lounge%20East%20Legon%20Accra&query_place_id=ChIJZafgxwOd3w8RUU1gD0hzYbg",
+    "hero": "/assets/ghana-pasta.webp",
+    "menu": [
+      [
+        "liv-resto-lounge-1",
+        "Angwamo / Braised Rice",
+        "",
+        180,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-pasta.webp"
+      ],
+      [
+        "liv-resto-lounge-2",
+        "Banku and Tilapia",
+        "",
+        220,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "liv-resto-lounge-3",
+        "Liv Waakye Special",
+        "",
+        200,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-salmon.webp"
+      ],
+      [
+        "liv-resto-lounge-4",
+        "Special Zongo Rice",
+        "",
+        200,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ]
+    ]
+  },
+  "three05-restaurant": {
+    "name": "Three05 Restaurant & Bar",
+    "shortName": "Three05 Restaurant & Bar",
+    "area": "East Legon",
+    "address": "3 Reading Street, Accra",
+    "phone": "+233 59 803 4545",
+    "intro": "Loaded angwamoo and Ghanaian rice dishes",
+    "source": "https://www.mkamalls.com/food/6b55198e-2de0-4424-a965-b42c61f4334a",
+    "sourceName": "MKA Malls Food Court",
+    "map": "https://www.google.com/maps/search/?api=1&query=Three05%20Restaurant%20%26%20Bar%20East%20Legon%20Accra",
+    "hero": "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1795009557572-m2luesdehq8.jpg",
+    "menu": [
+      [
+        "three05-restaurant-1",
+        "Angwamoo Loaded",
+        "",
+        130,
+        "Menu Highlights",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1795009557572-m2luesdehq8.jpg"
+      ],
+      [
+        "three05-restaurant-2",
+        "Angwamoo with Peppered Snail",
+        "",
+        250,
+        "Menu Highlights",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1795009525500-zanktei5vh.jpg"
+      ],
+      [
+        "three05-restaurant-3",
+        "Assorted Fried Rice",
+        "",
+        150,
+        "Menu Highlights",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1795009582964-gerrrfjgq4f.jpg"
+      ],
+      [
+        "three05-restaurant-4",
+        "Assorted Jollof",
+        "",
+        150,
+        "Menu Highlights",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1795009617777-5comeuyey8.jpg"
+      ]
+    ]
+  },
+  "kaya-afro-caribbean-bistro": {
+    "name": "Kaya Afro-Caribbean Bistro",
+    "shortName": "Kaya Afro-Caribbean Bistro",
+    "area": "East Legon",
+    "address": "6CQXJRQQ+X5, Accra",
+    "phone": "+233 54 712 7807",
+    "intro": "Ghanaian and Caribbean flavors",
+    "source": "https://chopradar.com/browse/?area=East+Legon&city=Accra&q=banku&type=continental",
+    "sourceName": "ChopRadar",
+    "map": "https://www.google.com/maps/search/?api=1&query=Kaya%20Afro-Caribbean%20Bistro%20East%20Legon%20Accra",
+    "hero": "/assets/ghana-soup.webp",
+    "menu": [
+      [
+        "kaya-afro-caribbean-bistro-1",
+        "Banku with Okro Stew",
+        "",
+        220,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-soup.webp"
+      ]
+    ]
+  },
+  "fuego-restaurant": {
+    "name": "Fuego Restaurant",
+    "shortName": "Fuego Restaurant",
+    "area": "East Legon",
+    "address": "Tanbu Lane, Bawaleshi, Accra",
+    "phone": "+233 55 865 9289",
+    "intro": "Restaurant on Tanbu Lane",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=Fuego%20Restaurant%20East%20Legon%20Accra&query_place_id=ChIJW1qMJ-ib3w8RTmdl6jnmmKM",
+    "hero": "/assets/ghana-burger.webp",
+    "menu": [
+      [
+        "fuego-restaurant-1",
+        "Jollof Rice with Grilled Chicken",
+        "",
+        85,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "fuego-restaurant-2",
+        "Peppered Gizzard",
+        "",
+        45,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-shrimp.webp"
+      ],
+      [
+        "fuego-restaurant-3",
+        "Kelewele",
+        "",
+        30,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-bruschetta.webp"
+      ]
+    ]
+  },
+  "kula-bistro": {
+    "name": "Kula Bistro",
+    "shortName": "Kula Bistro",
+    "area": "East Legon",
+    "address": "Ange Hill Street, Shiashie, Accra",
+    "phone": "+233 55 114 4441",
+    "intro": "Ghanaian and continental dishes",
+    "source": "https://www.tabtable.com/r/kula-bistro",
+    "sourceName": "Tabtable",
+    "map": "https://www.google.com/maps/search/?api=1&query=Kula%20Bistro%20East%20Legon%20Accra&query_place_id=ChIJgXn0BwCb3w8Rqc9ul3g5saI",
+    "hero": "/assets/ghana-chicken.webp",
+    "menu": [
+      [
+        "kula-bistro-1",
+        "Banku with Full Grilled Tilapia",
+        "",
+        200,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "kula-bistro-2",
+        "Banku with Mixed Meat Okro Soup",
+        "",
+        120,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-soup.webp"
+      ],
+      [
+        "kula-bistro-3",
+        "Jollof",
+        "",
+        60,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ]
+    ]
+  },
+  "new-peppers-spintex": {
+    "name": "New Peppers Restaurant",
+    "shortName": "New Peppers Restaurant",
+    "area": "Spintex",
+    "address": "81 Spintex Road, Accra",
+    "phone": "+233 59 777 6600",
+    "intro": "Multi-cuisine dining on Spintex Road",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=New%20Peppers%20Restaurant%20Spintex%20Accra&query_place_id=ChIJYyJxQwCF3w8Rgfp7LKkeMQQ",
+    "hero": "/assets/ghana-burger.webp",
+    "menu": [
+      [
+        "new-peppers-spintex-1",
+        "Jollof Rice with Grilled Chicken",
+        "",
+        85,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "new-peppers-spintex-2",
+        "Fried Rice with Grilled Chicken",
+        "",
+        85,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-pasta.webp"
+      ],
+      [
+        "new-peppers-spintex-3",
+        "Kelewele",
+        "",
+        30,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-bruschetta.webp"
+      ]
+    ]
+  },
+  "mokas-spintex": {
+    "name": "Moka’s Spintex",
+    "shortName": "Moka’s Spintex",
+    "area": "Spintex",
+    "address": "80 Spintex Road, Accra",
+    "phone": "+233 55 777 1770",
+    "intro": "Burgers, quick bites and fresh juice",
+    "source": "https://tabtable.com/r/moka-s-express",
+    "sourceName": "Tabtable",
+    "map": "https://www.google.com/maps/search/?api=1&query=Moka%E2%80%99s%20Spintex%20Spintex%20Accra&query_place_id=ChIJ9QMIz46F3w8RLu7UTbykRIs",
+    "hero": "/assets/burger.webp",
+    "menu": [
+      [
+        "mokas-spintex-1",
+        "Classic Beef Burger",
+        "",
+        45,
+        "Menu Highlights",
+        "",
+        "/assets/burger.webp"
+      ],
+      [
+        "mokas-spintex-2",
+        "Fried Chicken Burger",
+        "",
+        39,
+        "Menu Highlights",
+        "",
+        "/assets/chicken.webp"
+      ],
+      [
+        "mokas-spintex-3",
+        "Pineapple Juice",
+        "",
+        21,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "mokas-spintex-4",
+        "Mint Lemonade",
+        "",
+        21,
+        "Menu Highlights",
+        "",
+        ""
+      ]
+    ]
+  },
+  "african-palace-spintex": {
+    "name": "African Palace Nigerian Restaurant",
+    "shortName": "African Palace Nigerian Restaurant",
+    "area": "Spintex",
+    "address": "47 Spintex Road, Accra",
+    "phone": "+233 55 968 3664",
+    "intro": "Nigerian cooking on Spintex Road",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=African%20Palace%20Nigerian%20Restaurant%20Spintex%20Accra&query_place_id=ChIJswGYlQSF3w8RHnEUBzKbZEc",
+    "hero": "/assets/ghana-burger.webp",
+    "menu": [
+      [
+        "african-palace-spintex-1",
+        "Nigerian Jollof Rice",
+        "",
+        75,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "african-palace-spintex-2",
+        "Egusi Soup with Pounded Yam",
+        "",
+        95,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "african-palace-spintex-3",
+        "Pepper Soup",
+        "",
+        65,
+        "Menu Highlights",
+        "",
+        ""
+      ]
+    ]
+  },
+  "nigerianfoodgh": {
+    "name": "Nigerianfoodgh",
+    "shortName": "Nigerianfoodgh",
+    "area": "Spintex",
+    "address": "Peace and Love, off Coastal Road, Accra",
+    "phone": "+233 59 406 5116",
+    "intro": "Nigerian food in Spintex",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=Nigerianfoodgh%20Spintex%20Accra&query_place_id=ChIJ4-m87iKF3w8RUNqDUY4IW_o",
+    "hero": "/assets/ghana-burger.webp",
+    "menu": [
+      [
+        "nigerianfoodgh-1",
+        "Nigerian Jollof Rice",
+        "",
+        70,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "nigerianfoodgh-2",
+        "Egusi Soup with Eba",
+        "",
+        85,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "nigerianfoodgh-3",
+        "Peppered Beef",
+        "",
+        55,
+        "Menu Highlights",
+        "",
+        ""
+      ]
+    ]
+  },
+  "poks-celebrity-waakye": {
+    "name": "Poks Celebrity Waakye",
+    "shortName": "Poks Celebrity Waakye",
+    "area": "Spintex",
+    "address": "Spintex Rainbow Road, Accra",
+    "phone": "+233 55 282 8672",
+    "intro": "Waakye on Spintex Rainbow Road",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=Poks%20Celebrity%20Waakye%20Spintex%20Accra",
+    "hero": "/assets/ghana-salmon.webp",
+    "menu": [
+      [
+        "poks-celebrity-waakye-1",
+        "Waakye with Egg",
+        "",
+        45,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-salmon.webp"
+      ],
+      [
+        "poks-celebrity-waakye-2",
+        "Waakye with Beef",
+        "",
+        65,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-salmon.webp"
+      ],
+      [
+        "poks-celebrity-waakye-3",
+        "Waakye with Chicken",
+        "",
+        70,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-salmon.webp"
+      ]
+    ]
+  },
+  "members-tilapia-spintex": {
+    "name": "Members Tilapia & Grill",
+    "shortName": "Members Tilapia & Grill",
+    "area": "Spintex",
+    "address": "Spintex Road, Accra",
+    "phone": "+233 55 353 3100",
+    "intro": "Grilled tilapia and other grills",
+    "source": "https://www.mkamalls.com/food/fa95d657-e5ad-441a-9a37-43cebc0340c2",
+    "sourceName": "MKA Malls Food Court",
+    "map": "https://www.google.com/maps/search/?api=1&query=Members%20Tilapia%20%26%20Grill%20Spintex%20Accra",
+    "hero": "/assets/ghana-chicken.webp",
+    "menu": [
+      [
+        "members-tilapia-spintex-1",
+        "Grilled Tilapia (Big Size)",
+        "",
+        150,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "members-tilapia-spintex-2",
+        "Grilled Tilapia (Medium)",
+        "",
+        120,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "members-tilapia-spintex-3",
+        "Fried Tilapia",
+        "",
+        150,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "members-tilapia-spintex-4",
+        "Peppered Gizzard",
+        "",
+        50,
+        "Menu Highlights",
+        "",
+        ""
+      ]
+    ]
+  },
+  "deboyes-kitchen": {
+    "name": "DeBoye’s Kitchen",
+    "shortName": "DeBoye’s Kitchen",
+    "area": "Spintex",
+    "address": "Seth Nii Nartey Street, Accra",
+    "phone": "+233 55 351 1321",
+    "intro": "Kenkey with pork and turkey stews",
+    "source": "https://food.bolt.eu/en/137-accra/p/152658-de-boyes-kitchen/",
+    "sourceName": "Bolt Food",
+    "map": "https://www.google.com/maps/search/?api=1&query=DeBoye%E2%80%99s%20Kitchen%20Spintex%20Accra",
+    "hero": "/assets/hero-menu.webp",
+    "menu": [
+      [
+        "deboyes-kitchen-1",
+        "Kenkey with Pork Stew",
+        "",
+        105,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "deboyes-kitchen-2",
+        "Kenkey with Turkey Stew",
+        "",
+        120,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "deboyes-kitchen-3",
+        "Pork Stew",
+        "",
+        88,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "deboyes-kitchen-4",
+        "Turkey Stew",
+        "",
+        105,
+        "Menu Highlights",
+        "",
+        ""
+      ]
+    ]
+  },
+  "galaxy-restaurant": {
+    "name": "Galaxy Restaurant",
+    "shortName": "Galaxy Restaurant",
+    "area": "Airport Residential",
+    "address": "Kofi Annan Street, Accra",
+    "phone": "+233 27 415 8446",
+    "intro": "Restaurant on Kofi Annan Street",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=Galaxy%20Restaurant%20Airport%20Residential%20Accra&query_place_id=ChIJgwWSwgib3w8RupdSQeeqwdg",
+    "hero": "/assets/ghana-burger.webp",
+    "menu": [
+      [
+        "galaxy-restaurant-1",
+        "Jollof Rice with Grilled Chicken",
+        "",
+        95,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "galaxy-restaurant-2",
+        "Banku with Grilled Tilapia",
+        "",
+        135,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "galaxy-restaurant-3",
+        "Kelewele",
+        "",
+        35,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-bruschetta.webp"
+      ]
+    ]
+  },
+  "new-lifeline-restaurant": {
+    "name": "New Lifeline Restaurant & Bar",
+    "shortName": "New Lifeline Restaurant & Bar",
+    "area": "Airport Residential",
+    "address": "Airport Residential Area, Accra",
+    "phone": "+233 24 388 3087",
+    "intro": "Restaurant and bar in Airport Residential",
+    "sampleMenu": true,
+    "map": "https://www.google.com/maps/search/?api=1&query=New%20Lifeline%20Restaurant%20%26%20Bar%20Airport%20Residential%20Accra&query_place_id=ChIJ1WeqG6ub3w8R5D1vdyPD94g",
+    "hero": "/assets/ghana-shrimp.webp",
+    "menu": [
+      [
+        "new-lifeline-restaurant-1",
+        "Beef Suya",
+        "",
+        55,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-shrimp.webp"
+      ],
+      [
+        "new-lifeline-restaurant-2",
+        "Fried Rice with Grilled Chicken",
+        "",
+        85,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-pasta.webp"
+      ],
+      [
+        "new-lifeline-restaurant-3",
+        "Kelewele",
+        "",
+        30,
+        "Menu Highlights",
+        "",
+        "/assets/ghana-bruschetta.webp"
+      ]
+    ]
+  },
+  "muftys-airport": {
+    "name": "Mufty’s Airport Branch",
+    "shortName": "Mufty’s Airport Branch",
+    "area": "Airport Residential",
+    "address": "JR6C+8XW, Senchi Street, Accra",
+    "phone": "+233 59 827 8926",
+    "intro": "Waakye wraps and café bites",
+    "source": "https://new-food.bolt.eu/en/137-accra/venue/188203-muftys-premium-coffee-airport",
+    "sourceName": "Bolt Food",
+    "map": "https://www.google.com/maps/search/?api=1&query=Mufty%E2%80%99s%20Airport%20Branch%20Airport%20Residential%20Accra",
+    "hero": "/assets/hero-menu.webp",
+    "menu": [
+      [
+        "muftys-airport-1",
+        "Waakye Wrap",
+        "",
+        130,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "muftys-airport-2",
+        "Chicken Mayo Wrap",
+        "",
+        150,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "muftys-airport-3",
+        "Egg and Avocado Wrap",
+        "",
+        130,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "muftys-airport-4",
+        "Pancake",
+        "",
+        70,
+        "Menu Highlights",
+        "",
+        ""
+      ],
+      [
+        "muftys-airport-5",
+        "Waffles",
+        "",
+        80,
+        "Menu Highlights",
+        "",
+        ""
+      ]
+    ]
   }
 }
