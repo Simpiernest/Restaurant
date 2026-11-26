@@ -6,4 +6,9 @@ export type PreviewListing = {
   address: string;
   map: string;
   boltFood?: string;
+  intro?: string;
+  source?: string;
+  sourceName?: string;
+  hero?: string;
+  menu?: readonly (readonly (string | number)[])[];
 };

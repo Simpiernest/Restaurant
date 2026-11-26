@@ -183,5 +183,290 @@
     "area": "Adenta",
     "address": "43 Lame Dwaahe Street, opposite Melcom, Adenta",
     "map": "https://www.google.com/maps/search/?api=1&query=De%20Klinic%20Restaurant%20Adenta"
+  },
+  "joycey-locals": {
+    "name": "Joycey Locals",
+    "shortName": "Joycey Locals",
+    "area": "Spintex",
+    "phone": "+233 54 633 5127",
+    "address": "Opposite Parakou Junction, Spintex, Accra",
+    "map": "https://www.google.com/maps/search/Joycey+Locals+Spintex+Accra",
+    "intro": "Ghanaian jollof rice in Spintex, served in three portion sizes.",
+    "source": "https://chopradar.com/place/?id=joycey-locals",
+    "sourceName": "ChopRadar",
+    "hero": "/assets/ghana-burger.webp",
+    "menu": [
+      [
+        "small",
+        "Jollof Rice – Small",
+        "Small portion of Ghanaian jollof rice.",
+        35,
+        "Jollof Rice",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "medium",
+        "Jollof Rice – Medium",
+        "Medium portion of Ghanaian jollof rice.",
+        45,
+        "Jollof Rice",
+        "",
+        "/assets/ghana-burger.webp"
+      ],
+      [
+        "large",
+        "Jollof Rice – Large",
+        "Large portion of Ghanaian jollof rice.",
+        60,
+        "Jollof Rice",
+        "",
+        "/assets/ghana-burger.webp"
+      ]
+    ]
+  },
+  "taste-kaima": {
+    "name": "Taste Kaima",
+    "shortName": "Taste Kaima",
+    "area": "East Legon",
+    "phone": "+233 59 416 2205",
+    "address": "MR5X+QGC, East Legon, Accra",
+    "map": "https://www.google.com/maps/place/Taste+Kaima/@5.6593772,-0.1511218,17z/data=!3m1!4b1!4m6!3m5!1s0xfdf9d000f6fde2f:0xc70e5facbd190188!8m2!3d5.6593772!4d-0.1511218!16s%2Fg%2F11zf6hssqb",
+    "intro": "Fresh juices, grills and quick bites in East Legon.",
+    "source": "https://chopradar.com/place/?id=taste-kaima-east-legon",
+    "sourceName": "ChopRadar",
+    "hero": "/assets/ghana-chicken.webp",
+    "menu": [
+      [
+        "kaima-0",
+        "Chicken Wings",
+        "",
+        60,
+        "Grills",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "kaima-1",
+        "Peppered Gizzard",
+        "",
+        30,
+        "Grills",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "kaima-2",
+        "Chicken Thighs",
+        "",
+        40,
+        "Grills",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "kaima-3",
+        "Spiced Grilled Beef",
+        "",
+        50,
+        "Grills",
+        "",
+        "/assets/ghana-chicken.webp"
+      ],
+      [
+        "kaima-4",
+        "Assorted Noodles",
+        "",
+        120,
+        "Quick Bites",
+        "",
+        ""
+      ],
+      [
+        "kaima-5",
+        "Pancake",
+        "",
+        30,
+        "Quick Bites",
+        "",
+        ""
+      ],
+      [
+        "kaima-6",
+        "Fried Yam",
+        "",
+        30,
+        "Quick Bites",
+        "",
+        ""
+      ],
+      [
+        "kaima-7",
+        "Samosa (5 pieces)",
+        "",
+        55,
+        "Quick Bites",
+        "",
+        ""
+      ],
+      [
+        "kaima-8",
+        "Spring Rolls (5 pieces)",
+        "",
+        55,
+        "Quick Bites",
+        "",
+        ""
+      ],
+      [
+        "kaima-9",
+        "Pepper Wele",
+        "",
+        30,
+        "Quick Bites",
+        "",
+        ""
+      ],
+      [
+        "kaima-10",
+        "Tigernut Juice",
+        "",
+        60,
+        "Drinks",
+        "",
+        ""
+      ],
+      [
+        "kaima-11",
+        "Pineapple Juice",
+        "",
+        50,
+        "Drinks",
+        "",
+        ""
+      ],
+      [
+        "kaima-12",
+        "Coconut Juice",
+        "",
+        60,
+        "Drinks",
+        "",
+        ""
+      ],
+      [
+        "kaima-13",
+        "Piña Colada",
+        "",
+        70,
+        "Drinks",
+        "",
+        ""
+      ]
+    ]
+  },
+  "mari-nate": {
+    "name": "Mari-Nate Restaurant & Bar",
+    "shortName": "Mari-Nate",
+    "area": "Airport Residential",
+    "phone": "+233 53 007 4881",
+    "address": "14 Senchi Street, Airport Residential, Accra",
+    "map": "https://www.google.com/maps/place/Mari-Nate+Restaurant+and+Bar/data=!4m7!3m6!1s0xfdf9bf43939ddf1:0x53f7784e9998d92a!8m2!3d5.6119548!4d-0.1771063!16s%2Fg%2F11shpc959v!19sChIJ8d05OfSb3w8RKtmYmU5491M",
+    "intro": "Breakfast, wraps, wings and light bites on Senchi Street.",
+    "source": "https://www.mkamalls.com/food/cea1820b-b6db-41b2-869c-cbaf01067310",
+    "sourceName": "MKA Malls Food Court",
+    "hero": "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793799708327-rbcyvrylsks.jpeg",
+    "menu": [
+      [
+        "mari-0",
+        "Wings Combo",
+        "",
+        120,
+        "Combos",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793799708327-rbcyvrylsks.jpeg"
+      ],
+      [
+        "mari-1",
+        "Salad + Fresh Juice",
+        "",
+        140,
+        "Combos",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793802866013-5bf4d7w09gs.jpeg"
+      ],
+      [
+        "mari-2",
+        "Wrap / Sandwich",
+        "",
+        130,
+        "Combos",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793800182736-7bbwiupme62.jpeg"
+      ],
+      [
+        "mari-3",
+        "Chicken Wrap",
+        "",
+        85,
+        "Wraps & Sandwiches",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793789801465-lz4c3n3d2ps.jfif"
+      ],
+      [
+        "mari-4",
+        "Chicken Sandwich",
+        "",
+        70,
+        "Wraps & Sandwiches",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793799405733-xiincmkgu0p.jfif"
+      ],
+      [
+        "mari-5",
+        "Calamari Strip",
+        "",
+        65,
+        "Appetizers",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793789343933-tbc80w6zqr.jfif"
+      ],
+      [
+        "mari-6",
+        "Samosa",
+        "",
+        55,
+        "Appetizers",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793789182107-yu4mu06ez69.jfif"
+      ],
+      [
+        "mari-7",
+        "Spring Rolls",
+        "",
+        45,
+        "Appetizers",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793789024948-4ohx7qyhfy.jfif"
+      ],
+      [
+        "mari-8",
+        "Breakfast",
+        "",
+        100,
+        "Breakfast",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793790877397-e8m6e7x3hkp.jfif"
+      ],
+      [
+        "mari-9",
+        "Chicken Salad",
+        "",
+        85,
+        "Salads",
+        "",
+        "https://peuaurtfynutdpgvraem.supabase.co/storage/v1/object/public/products/food/1793801349373-sztrf7blf6s.jpeg"
+      ]
+    ]
   }
 }

@@ -36,10 +36,10 @@ function getPreview({ slug, section = [] }: Params) {
 }
 
 export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
-  const { name, page } = getPreview(await params);
+  const { name, page, listing } = getPreview(await params);
   return {
     title: `${name} | ${pages[page]}`,
-    description: `Unofficial website concept for ${name}. Uses sample content.`,
+    description: `Unofficial website concept for ${name}. ${"intro" in listing ? listing.intro : "Uses sample content."}`,
     robots: { index: false, follow: false },
   };
 }
